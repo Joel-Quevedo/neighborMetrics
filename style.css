@@ -35,6 +35,15 @@ body, html {
   left: 16px;
 }
 
+#text {
+  color: #333;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* Position text in the middle */
 .middle {
   position: absolute;
